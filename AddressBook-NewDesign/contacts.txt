@@ -1,0 +1,13 @@
+#12
+Amruta,9831136543,amruta123@gmail.com
+Avinash,7809236712,avinash@gmail.com
+Bhavya,8765230184,bhavya@gmail.com
+Divya N,9987125436,divya321@gmail.com
+Janvi,8745205612,janu@gmail.com
+Karan,9002364587,karan@gmail.com
+Keerti,8714520023,keerti78@gmail.com
+Radha,6798542805,radha12@gamil.com
+Sanvi,7667984553,sanu@gmail.com
+Siri C,9045643212,siri12@gmail.com
+Vedanta,7654320987,veda@gmail.com
+Veena,9945672109,veena09@gmail.com
